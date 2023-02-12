@@ -135,4 +135,4 @@ Hovering on each of the change should allow the user to accept or reject the cha
 
 ### Instructions to run the solution
 - Clone the repository
-- From the root of the project directory, run npm install and npm run start  
+- From the root of the project directory, run npm --force install and npm run start  
